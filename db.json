@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "van@gmail.com",
+      "password": "$2a$10$a6X/PZBS26VU1JtZDSEWd.XdCI2WUmlDZqp7HJPLP38Gzw7Tapp0i",
+      "firstName": "van",
+      "lastName": "thanh",
+      "confirmPassword": "123456789",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$0l8JoIcnHmRLtF4fsc7kdeTjAurFkOZKpdd9nMKlN5Evz9l11XgSe",
+      "firstName": "admin",
+      "lastName": "admin",
+      "confirmPassword": "123456789",
+      "id": 2
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$wTCLGZWIRD0iZJ4UJyxNW.JIDVDYKd3b3MgXdXbH7AT56HFpqYsJO",
+      "firstName": "van",
+      "lastName": "van",
+      "confirmPassword": "123456789",
+      "id": 3
+    },
+    {
+      "email": "adddd@gmail.com",
+      "password": "$2a$10$s3i72NPO.aHoYNzMhwFgG.bijHMP82Uhh3MNnBQ6P3EX.0.71sjpm",
+      "firstName": "van",
+      "lastName": "van",
+      "confirmPassword": "123456789",
+      "id": 4
+    },
+    {
+      "email": "ad1@gmail.com",
+      "password": "$2a$10$htAHbGS/jdvurKEATNrnZek1i2JXRkxCorcgxToZjAiwtWuU0Nc1m",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone14 pro max",
+      "price": 12,
+      "original_price": 22,
+      "desc": "cua apple"
+    },
+    {
+      "id": 2,
+      "name": "samsung galaxy z flip",
+      "price": 21,
+      "original_price": 22,
+      "desc": "cua samsung"
+    },
+    {
+      "id": 2,
+      "name": "lamborghini aventador",
+      "price": 32,
+      "original_price": 42,
+      "desc": "cua lamborghini"
+    }
+  ]
+}
